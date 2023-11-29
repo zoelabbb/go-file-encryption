@@ -9,13 +9,13 @@ This project is a simple application that leverages the GitHub API to search for
 2. Clone this repository into your local directory:
 
     ```bash
-    git clone https://github.com/username/go-github-search.git
+    git clone https://github.com/zoelabbb/go-search-repos.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd go-github-search
+    cd go-search-repos
     ```
 
 4. Run the project:
