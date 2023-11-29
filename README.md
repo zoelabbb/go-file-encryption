@@ -39,4 +39,4 @@ If you want to contribute to this project, please follow these steps:
 
 ## Support
 
-You can support me by giving a star to this repository.
+You can support me by giving a star to this repository
